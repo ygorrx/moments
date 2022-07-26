@@ -55,6 +55,9 @@ img {
 
 .comment-form {
   margin-bottom: 3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .comment-form form {
